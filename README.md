@@ -6,17 +6,17 @@
 
 ![Me](./img/jonathanbuchner.jfif)
 
-# Greetings
-Great to meet you!  I am looking to:
-- Engage in project that would also be good fits for my students
-- Deepen knowledge in algorithms and datastructures problems relating to foundational 
+# Greetings!
+On GitHub I am:
+- Looking to engage in project I may later work on with my students
+- Revisiting algorithms and datastructures foundational training 
 
-### My passions include:
-- Outdoors raft guiding, climbing instructing, backcounrty skiing, walking outdoors
+### My passions include
+- Outdoors doing raft guiding, climbing instructing, backcountry skiing, and walking around outdoors
 - Making and drinking beer
-- Mission driven work supporting and engaging their perception of themselves and their world
+- Mission driven work supporting and engaging people on driving their self development
 
-### Stacks
+### Language and Frameworks I use
 - C#, .NET 5 (ASP.NET), .NET Framework 
 - TypeScript, Electron, Vue
 - TSQL, Mongo DB
