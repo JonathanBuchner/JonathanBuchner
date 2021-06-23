@@ -1,13 +1,10 @@
 
 <!-- **JonathanBuchner/JonathanBuchner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
-
-
-![Me](./img/jonathanbuchner.jfif)
+![Microsoft](./img/banner.jpg)
 
 # Greetings!
-On GitHub I am:
+On GitHub, I am:
 - Looking to engage in project I may later work on with my students
 - Revisiting algorithms and datastructures foundational training 
 
