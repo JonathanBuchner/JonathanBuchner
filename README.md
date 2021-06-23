@@ -11,19 +11,19 @@ Great to meet you!  I am looking to:
 - Engage in project that would also be good fits for my students
 - Deepen knowledge in algorithms and datastructures problems relating to foundational 
 
-My passions include:
+### My passions include:
 - Outdoors raft guiding, climbing instructing, backcounrty skiing, walking outdoors
 - Making and drinking beer
 - Mission driven work supporting and engaging their perception of themselves and their world
 
-Contact me at:
-- me@jonathanbuchner.com
-- https://www.linkedin.com/in/buchner/
-
-# Stacks
+### Stacks
 - C#, .NET 5 (ASP.NET), .NET Framework 
 - TypeScript, Electron, Vue
 - TSQL, Mongo DB
+
+### Contact me at:
+- me@jonathanbuchner.com
+- https://www.linkedin.com/in/buchner/
 
 # Professional
 
