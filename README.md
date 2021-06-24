@@ -5,13 +5,13 @@
 
 # Greetings!
 On GitHub, I am:
-- Looking to engage in project I may later work on with my students
-- Revisiting algorithms and datastructures foundational training 
+- Exploring projects I may later use as examples in class and work on with my students
+- Revisiting algorithm and datastructure trainings 
 
 ### My passions include
-- Outdoors doing raft guiding, climbing instructing, backcountry skiing, and walking around outdoors
-- Making and drinking beer
-- Mission driven work supporting and engaging people on driving their self development
+- Raft guiding, climbing instructing, backcountry skiing, and walking around outdoors
+- Supporting and challenging others to drive their learning and self-development
+- Making and drinking dark beer
 
 ### Language and Frameworks I use
 - C#, .NET 5 (ASP.NET), .NET Framework 
@@ -34,7 +34,7 @@ Currently instructing and developing curriculum for the Microsoft Leap Apprentic
 ![Envision](./img/envision.png)
 ### **Envision**  Developer
 
-Part of a three-person engineering team with two senior developers working to capture, save and stream media.
+Part of a three-person engineering team to capture computure screen medie, process the media in the cloud and stream media to review and training applications.
 
 #### *Project:* Smart Agent Client
 Cross-platform desktop application that capture user’s computer screen, program audio, and scrapes bi-data.
