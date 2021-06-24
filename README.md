@@ -16,7 +16,7 @@ On GitHub, I am:
 ### Language and Frameworks I use
 - C#, .NET 5 (ASP.NET), .NET Framework 
 - TypeScript, Electron, Vue
-- TSQL, Mongo DB
+- Microsoft SQL Server (TSQL), Mongo DB
 
 ### Contact me at:
 - me@jonathanbuchner.com
