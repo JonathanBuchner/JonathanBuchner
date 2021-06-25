@@ -13,8 +13,8 @@
 - Raft guiding, climbing instructing, backcountry skiing, and walking around outside
 - Making and drinking dark beers
 - Supporting and engaging career changers and career returners for building self confidence and developing life long learner mindsets.
-- Destigmitizing breaks in work history
-- Help teams think different by hiring unconventinal talent
+- Destigmatizing breaks in work history
+- Help teams think different by hiring unconventional talent
 
 ### Language and frameworks
 - C# & .NET 5 (ASP.NET)
