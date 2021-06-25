@@ -5,16 +5,14 @@
 
 # Greetings!
 ### On GitHub I am:
-- Looking to engage in projects I may later work on with my students
-- Revisit algorithm and datastructure foundational trainings 
-- Develop for Microsoft Leap's Internal Program whose mission is unlocking career opportunities in technology for internal, unconventional talent.
+- Engaging in projects I may later work on with my students
+- Revisiting algorithm and data structures  
+- Developing content for Microsoft Leap's Internal Program to unlock career opportunities in technology for internal Microsoft, unconventional talent.
 
 ### My passions include
 - Raft guiding, climbing instructing, backcountry skiing, and walking around outside
-- Making and drinking dark beers
-- Supporting and engaging career changers and career returners for building self confidence and developing life long learner mindsets.
-- Destigmatizing breaks in work history
-- Help teams think different by hiring unconventional talent
+- Making and drinking dark beer
+- Supporting career changers and career returners for building self-confidence and developing their learning mindsets
 
 ### Language and frameworks
 - C# & .NET 5 (ASP.NET)
