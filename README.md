@@ -42,7 +42,7 @@ Cross-platform desktop application that capture user’s computer screen, progra
 
 
 #### *Project:* Media Player
-Removed resource-intensive media processing out of Azure to clients and simplified media delivery to clients 
+Removed resource-intensive media processing out of Azure to clients and simplified media delivery to clients. 
 
 ---
 
