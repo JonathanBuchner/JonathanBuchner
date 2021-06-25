@@ -37,7 +37,7 @@ Currently instructing and developing curriculum for the Microsoft Leap Apprentic
 ![Envision](./img/envision.png)
 ### **Envision**  Developer
 
-Worked on solutions that capture computure screen medie, processed the media in the cloud, and stream media through our web applications for coaching, record keeping, and training developement.  Envision provides workforce optimization solutions for contact centers.
+Worked on solutions which capture computers screen media, processed the media in the cloud, and streamed media to web clients for coaching, record keeping, and training material development.  Envision provides workforce optimization solutions for contact centers.
 
 #### *Project:* Smart Agent Client
 Cross-platform desktop application that capture user’s computer screen, program audio, and scrapes bi-data.
