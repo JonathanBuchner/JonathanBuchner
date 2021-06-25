@@ -55,8 +55,8 @@ I taught two a fifteen week evening programming courses on web development.  Epi
 
 ### Before changing careers, I have experience
 - Directing ministry programs - *middle school and high school*
-- Managin Residence halls at Whitman College - *young adults*
+- Managin residence halls at Whitman College - *young adults*
 - Supervising an outdoor retail store
-- Fostering community developement
+- Fostering community
 - Climbing and raft guiding
 
