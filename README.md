@@ -56,8 +56,8 @@ I taught two a fifteen week evening programming courses on web development.
 ---
 
 ### Before changing careers, my experience includes
-- Directing ministry programs - (middle school and highschool students)
-- Residence Life - (college students)
+- Directing ministry programs - *middle school and highschool students*
+- Residence Life - *college students*
 - Outdoor industry retail
 - Community developement
 - Climbing and raft guiding
