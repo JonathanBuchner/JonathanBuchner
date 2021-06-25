@@ -12,7 +12,9 @@
 ### My passions include
 - Raft guiding, climbing instructing, backcountry skiing, and walking around outside
 - Making and drinking dark beers
-- Supporting and engaging career changers and career returners for building self confidence and developing life long learner mindsets  
+- Supporting and engaging career changers and career returners for building self confidence and developing life long learner mindsets.
+- Destigmitizing breaks in work history
+- Help teams think different by hiring unconventinal talent
 
 ### Language and frameworks
 - C# & .NET 5 (ASP.NET)
@@ -52,4 +54,11 @@ Removed resource-intensive media processing out of Azure to clients and simplifi
 I taught two a fifteen week evening programming courses on web development.
 
 ---
+
+### Before changing careers, my experience includes
+- Directing ministry programs - (middle school and highschool students)
+- Residence Life - (college students)
+- Outdoor industry retail
+- Community developement
+- Climbing and raft guiding
 
