@@ -4,19 +4,20 @@
 ![Microsoft](./img/banner.jpg)
 
 # Greetings!
-On GitHub, I am:
+On GitHub I am:
 - Looking to engage in project I may later work on with my students
 - Revisiting algorithms and datastructures foundational training 
+- Develop Leap's Internal Program reskilling Microsoft Employees to engineering roles
 
 ### My passions include
-- Outdoors doing raft guiding, climbing instructing, backcountry skiing, and walking around outdoors
-- Making and drinking beer
-- Mission driven work supporting and engaging people on driving their self development
+- Raft guiding, climbing instructing, backcountry skiing, and walking around outdoors
+- Making and drinking dark beers
+- Supporting and engaging early career, career changers, or career reterners on driving their self development 
 
-### Language and Frameworks I use
-- C#, .NET 5 (ASP.NET), .NET Framework 
-- TypeScript, Electron, Vue
-- TSQL, Mongo DB
+### Language and frameworks
+- C# & .NET 5 (ASP.NET)
+- TypeScript, Electron & dabble in front-end frameworks
+- Microsoft SQL server, dabble in non-relational
 
 ### Contact me at:
 - me@jonathanbuchner.com
