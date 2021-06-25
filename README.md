@@ -4,7 +4,7 @@
 ![Microsoft](./img/banner.jpg)
 
 # Greetings!
-On GitHub I am:
+### On GitHub I am:
 - Looking to engage in project I may later work on with my students
 - Revisiting algorithms and datastructures foundational training 
 - Develop Leap's Internal Program reskilling Microsoft Employees to engineering roles
