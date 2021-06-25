@@ -49,7 +49,7 @@ Removed resource-intensive media processing out of Azure to clients and simplifi
 ![Epicodus](./img/epicodus.png)
 ### **Epicodus** Instructor
 
-I taught two a 15-week evening programming courses on web development
+I taught two a 15-week evening programming courses on web development.
 
 ---
 
