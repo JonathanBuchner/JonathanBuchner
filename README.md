@@ -49,14 +49,14 @@ Removed resource-intensive media processing out of Azure to clients, and simplif
 ![Epicodus](./img/epicodus.png)
 ### **Epicodus** Instructor
 
-I taught two a fifteen week evening programming courses on web development.
+I taught two a fifteen week evening programming courses on web development.  Epicodus is the most affordable full-time code school, and one of the few programs that includes an internship with a tech company as well as job search support.
 
 ---
 
 ### Before changing careers, I have experience
 - Directing ministry programs - *middle school and high school*
 - Managin Residence halls at Whitman College - *young adults*
-- Supervising at an outdoor retail store
+- Supervising an outdoor retail store
 - Fostering community developement
 - Climbing and raft guiding
 
