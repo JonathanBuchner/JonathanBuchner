@@ -6,13 +6,13 @@
 # Greetings!
 ### On GitHub I am:
 - Engaging in projects I may later work on with my students
-- Revisiting algorithm and data structures  
-- Developing content for Microsoft Leap's Internal Program to unlock career opportunities in technology for internal Microsoft, unconventional talent.
+- Revisiting algorithms and data structures  
+- Developing content in Microsoft Leap's Internal Program organization. 
 
 ### My passions include
-- Raft guiding, climbing instructing, backcountry skiing, and walking around outside
-- Making and drinking dark beer
+- Thinking about how system's constituent parts interrelate and how systems work within the context of larger systems
 - Supporting career changers and career returners for building self-confidence and developing their learner mindset
+- Raft guiding, climbing instructing, backcountry skiing, and walking around outside
 
 ### Language and frameworks
 - C# & .NET 5 (ASP.NET)
@@ -49,14 +49,13 @@ Removed resource-intensive media processing out of Azure to clients, and simplif
 ![Epicodus](./img/epicodus.png)
 ### **Epicodus** Instructor
 
-I taught two a fifteen week evening programming courses on web development.  Epicodus is the most affordable full-time code school, and one of the few programs that includes an internship with a tech company as well as job search support.
+I taught two fifteen week evening programming courses.  Epicodus is the most affordable full-time code school, and one of the few programs that includes an internship with a tech company as well as job search support.
 
 ---
 
-### Before changing careers, I have experience
-- Directing ministry programs - *middle school and high school*
-- Managin residence halls at Whitman College - *young adults*
+### Before changing careers, I enjoyed
+- Directing ministry programs
+- Managing residence halls at Whitman College
 - Supervising an outdoor retail store
 - Fostering community
-- Climbing and raft guiding
 
