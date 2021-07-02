@@ -9,7 +9,7 @@
 - Revisiting algorithms and data structures  
 - Developing content in Microsoft Leap's Internal Program organization. 
 
-### My passions include
+### Passions
 - Thinking about how system's constituent parts interrelate and how systems work within the context of larger systems
 - Supporting career changers and career returners for building self-confidence and developing their learner mindset
 - Raft guiding, climbing instructing, backcountry skiing, and walking around outside
@@ -19,7 +19,7 @@
 - TypeScript, Electron & dabble in front-end frameworks
 - Microsoft SQL server, dabble in non-relational database
 
-### Contact me at:
+### Contact
 - me@jonathanbuchner.com
 - https://www.linkedin.com/in/buchner/
 
