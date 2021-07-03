@@ -5,13 +5,14 @@
 
 # Greetings!
 ### On GitHub I am:
+- Developing curriculum in *Microsoft Leap's Internal Program* GitHub organization 
 - Engaging in projects I may later work on with my students
 - Revisiting algorithms and data structures  
-- Developing content in Microsoft Leap's Internal Program organization. 
+
 
 ### I enjoy:
 - Writing code and solving problems. 
-- Supporting career changers and career returners for building self-confidence and developing their learner mindset
+- Supporting career changers and career returners by building their confidence and learner mindset
 - Thinking about how system's constituent parts interrelate and how systems work within the context of larger systems
 - Raft guiding, climbing instructing, backcountry skiing, and walking around outside
 
