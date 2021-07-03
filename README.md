@@ -9,8 +9,8 @@
 - Revisiting algorithms and data structures  
 - Developing content in Microsoft Leap's Internal Program organization. 
 
-### Passions
-- Writing code
+### I enjoy:
+- Writing code and solving problems. 
 - Supporting career changers and career returners for building self-confidence and developing their learner mindset
 - Thinking about how system's constituent parts interrelate and how systems work within the context of larger systems
 - Raft guiding, climbing instructing, backcountry skiing, and walking around outside
