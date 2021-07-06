@@ -16,14 +16,13 @@
 - Raft guiding, climbing instructing, backcountry skiing, and walking around outside
 
 ### Language and frameworks
-Proficient	
 - C#, NET 5 (ASP.NET)
 - TypeScript, Electron
 - Microsoft SQL server (TSQL)
 - Azure
 - Object-oriented programming
 
-Prior Experiene
+Prior experience
 - HTML5, CSS, etc 
 - JavaScript, Node.js 
 - Angular & Vue 
