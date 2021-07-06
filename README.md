@@ -5,21 +5,23 @@
 
 # Greetings!
 ### On GitHub I am:
+- Developing curriculum in *Microsoft Leap's Internal Program* GitHub organization 
 - Engaging in projects I may later work on with my students
-- Revisiting algorithm and data structures  
-- Developing content for Microsoft Leap's Internal Program to unlock career opportunities in technology for internal Microsoft, unconventional talent.
+- Revisiting algorithms and data structures  
 
-### My passions include
+
+### I enjoy:
+- Writing code and solving problems. 
+- Supporting career changers and career returners by building their confidence and learner mindset
+- Thinking about how system's constituent parts interrelate and how systems work within the context of larger systems
 - Raft guiding, climbing instructing, backcountry skiing, and walking around outside
-- Making and drinking dark beer
-- Supporting career changers and career returners for building self-confidence and developing their learner mindset
 
 ### Language and frameworks
 - C# & .NET 5 (ASP.NET)
 - TypeScript, Electron & dabble in front-end frameworks
 - Microsoft SQL server, dabble in non-relational database
 
-### Contact me at:
+### Contact
 - me@jonathanbuchner.com
 - https://www.linkedin.com/in/buchner/
 
@@ -49,14 +51,13 @@ Removed resource-intensive media processing out of Azure to clients, and simplif
 ![Epicodus](./img/epicodus.png)
 ### **Epicodus** Instructor
 
-I taught two a fifteen week evening programming courses on web development.  Epicodus is the most affordable full-time code school, and one of the few programs that includes an internship with a tech company as well as job search support.
+I taught two fifteen week evening programming courses.  Epicodus is the most affordable full-time code school, and one of the few programs that includes an internship with a tech company as well as job search support.
 
 ---
 
-### Before changing careers, I have experience
-- Directing ministry programs - *middle school and high school*
-- Managin residence halls at Whitman College - *young adults*
-- Supervising at outdoor retail stores
+### Before changing careers, I enjoyed
+- Directing ministry programs
+- Managing residence halls at Whitman College
+- Supervising an outdoor retail store
 - Fostering community
-- Climbing and raft guiding
 
