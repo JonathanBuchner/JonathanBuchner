@@ -22,7 +22,7 @@
 - Azure
 - Object-oriented programming
 
-Prior experience
+Prior experience:
 - HTML5, CSS, etc 
 - JavaScript, Node.js 
 - Angular & Vue 
@@ -56,7 +56,7 @@ Removed resource-intensive media processing out of Azure to clients, and simplif
 ---
 
 ![Epicodus](./img/epicodus.png)
-### **Epicodus** Instructor
+### Instructor *at Epicodus*
 
 I taught two fifteen week evening programming courses.  Epicodus is the most affordable full-time code school, and one of the few programs that includes an internship with a tech company as well as job search support.
 
