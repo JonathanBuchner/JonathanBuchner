@@ -5,10 +5,9 @@
 
 # Greetings!
 ### On GitHub I am:
-- Developing curriculum in *Microsoft Leap's Internal Program* GitHub organization 
+- Developing curriculum for *Microsoft Leap's Internal Program* 
 - Engaging in projects I may later work on with my students
-- Revisiting algorithms and data structures  
-
+- Practicing algorithms and data structures  
 
 ### I enjoy:
 - Writing code and solving problems. 
@@ -17,9 +16,18 @@
 - Raft guiding, climbing instructing, backcountry skiing, and walking around outside
 
 ### Language and frameworks
-- C# & .NET 5 (ASP.NET)
-- TypeScript, Electron & dabble in front-end frameworks
-- Microsoft SQL server, dabble in non-relational database
+Proficient	
+- C#, NET 5 (ASP.NET)
+- TypeScript, Electron
+- Microsoft SQL server (TSQL)
+- Azure
+- Object-oriented programming
+
+Prior Experiene
+- HTML5, CSS, etc 
+- JavaScript, Node.js 
+- Angular & Vue 
+- Non-relational databases 
 
 ### Contact
 - me@jonathanbuchner.com
@@ -28,16 +36,16 @@
 # Professional
 
 ![Microsoft](./img/microsoft.png)
-### Microsoft Leap Instructor
+### Software Instructor *at Microsoft Leap*
 
 Currently instructing and developing curriculum at the Microsoft Leap Apprenticeship Program.  The Microsoft Leap program recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.
 
 ---
 
 ![Envision](./img/envision.png)
-### **Envision**  Developer
+### Developer *at Envision*
 
-Worked on solutions which capture computer screen media, processed the media in the cloud, and streamed media to web clients for coaching, record keeping, and training material development.  Envision provides workforce optimization solutions for contact centers.
+Worked on solutions which capture computer screen media, processed the media in the cloud, and streamed media to web clients.  Envision provides workforce optimization solutions for contact centers.
 
 #### *Project:* Smart Agent Client
 Cross-platform desktop application that capture user’s computer screen, program audio, and scrapes bi-data.
@@ -53,11 +61,4 @@ Removed resource-intensive media processing out of Azure to clients, and simplif
 
 I taught two fifteen week evening programming courses.  Epicodus is the most affordable full-time code school, and one of the few programs that includes an internship with a tech company as well as job search support.
 
----
-
-### Before changing careers, I enjoyed
-- Directing ministry programs
-- Managing residence halls at Whitman College
-- Supervising an outdoor retail store
-- Fostering community
 
