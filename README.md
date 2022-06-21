@@ -7,20 +7,18 @@
 ### On GitHub I am:
 - Developing curriculum for *Microsoft Leap's Internal Program* 
 - Engaging in projects I may later work on with my students
-- Practicing algorithms and data structures  
 
 ### I enjoy:
-- Writing code and solving problems. 
 - Supporting career changers and career returners by building their confidence and learner mindset
-- Thinking about how system's constituent parts interrelate and how systems work within the context of larger systems
-- Raft guiding, climbing instructing, backcountry skiing, and walking around outside
+- Indentifiying how system's constituent parts interrelate and how systems work within the context of larger systems
+- raft guiding, climbing instructing, backcountry skiing, and backpacking
+- and find joy in writing code
 
 ### Language and frameworks
-- C#, NET 5 (ASP.NET)
+- C#, .NET, (ASP.NET)
 - TypeScript, Electron
-- Microsoft SQL server (TSQL)
+- Microsoft SQL server (-TSQL)
 - Azure
-- Object-oriented programming
 
 Prior experience:
 - HTML5, CSS, etc 
