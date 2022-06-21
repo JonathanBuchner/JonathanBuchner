@@ -35,7 +35,7 @@ Prior experience:
 ![Microsoft](./img/microsoft.png)
 ### Software Instructor *at Microsoft Leap*
 
-Currently instructing and developing curriculum at the Microsoft Leap Apprenticeship Program.  The Microsoft Leap program recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.
+Currently instructing and developing curriculum at Microsoft Leap.  The Microsoft Leap program recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.
 
 ---
 
