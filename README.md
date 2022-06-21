@@ -11,8 +11,8 @@
 ### I enjoy:
 - Supporting career changers and career returners by building their confidence and learner mindset
 - Indentifiying how system's constituent parts interrelate and how systems work within the context of larger systems
-- raft guiding, climbing instructing, backcountry skiing, and backpacking
-- and find joy in writing code
+- Raft guiding, climbing instructing, backcountry skiing, and backpacking
+- Coding. I find joy in writing code :smile:
 
 ### Language and frameworks
 - C#, .NET, (ASP.NET)
