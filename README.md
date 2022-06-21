@@ -15,9 +15,9 @@
 - Coding. I find joy in writing code :smile:
 
 ### Language and frameworks
-- C#, .NET, (ASP.NET)
+- C#, .NET, ASP.NET
 - TypeScript, Electron
-- Microsoft SQL server (-TSQL)
+- Microsoft SQL Server, T-SQL
 - Azure
 
 Prior experience:
