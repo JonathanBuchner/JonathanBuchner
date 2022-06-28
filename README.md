@@ -7,7 +7,8 @@
 ### On GitHub I am:
 - Developing curriculum for *Microsoft Leap's Internal Program* 
 - Engaging in projects I may later work on with my students
-- Exploring curriculum ideas for teaching others to code on platforms like Twitch / YouTube  
+- Exploring curriculum ideas for teaching others to code on platforms like Twitch / YouTube
+- Learning [Meadows](https://www.wildernesslabs.co/)!  *Meadow is a complete, IoT platform with defense-grade security that runs full .NET Standard applications on embeddable microcontrollers*
 
 ### I enjoy:
 - Supporting career changers and career returners by building their confidence and learner mindset
