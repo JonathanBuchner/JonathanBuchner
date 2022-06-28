@@ -7,10 +7,11 @@
 ### On GitHub I am:
 - Developing curriculum for *Microsoft Leap's Internal Program* 
 - Engaging in projects I may later work on with my students
+- Exploring curriculum ideas for teaching others code on Twitch / YouTube  
 
 ### I enjoy:
 - Supporting career changers and career returners by building their confidence and learner mindset
-- Indentifiying how system's constituent parts interrelate and how systems work within the context of larger systems
+- Thinking through how systems work.
 - Raft guiding, climbing instructing, backcountry skiing, and backpacking
 - Coding. I find joy in writing code :smile:
 
