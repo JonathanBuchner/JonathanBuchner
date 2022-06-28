@@ -23,8 +23,7 @@
 - Azure
 
 Prior experience:
-- HTML5, CSS, etc 
-- JavaScript, Node.js 
+- HTML, CSS, JavaScript, Node.js 
 - Angular & Vue 
 - Non-relational databases 
 
