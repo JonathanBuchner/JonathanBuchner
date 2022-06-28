@@ -7,7 +7,7 @@
 ### On GitHub I am:
 - Developing curriculum for *Microsoft Leap's Internal Program* 
 - Engaging in projects I may later work on with my students
-- Exploring curriculum ideas for teaching others code on Twitch / YouTube  
+- Exploring curriculum ideas for teaching others to code on platforms like Twitch / YouTube  
 
 ### I enjoy:
 - Supporting career changers and career returners by building their confidence and learner mindset
