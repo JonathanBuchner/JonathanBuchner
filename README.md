@@ -4,19 +4,19 @@
 ![Microsoft](./img/banner.jpg)
 
 # Greetings!
-### What am I up to?
+### What am I up to on GitHub?
 - Developing curriculum for *Microsoft Leap's Internal Program* 
 - Engaging in projects I may later work on with my students
 - Exploring curriculum ideas for teaching others to code on platforms like Twitch / YouTube
 - Learning and practicing algorithms
 - Learning [Meadows](https://www.wildernesslabs.co/)!  *Meadow is a complete, IoT platform with defense-grade security that runs full .NET Standard applications on embeddable microcontrollers.*
 
-### I enjoy:
+### What do I enjoy?
 - Supporting pre-career, early career and career returners by building their confidence and learner mindset
 - Rafting, climbing, backcountry skiing, and backpacking
 - I love to code. :smile:
 
-### Languages and frameworks I commonly use:
+### My go to languages and frameworks:
 - C#, .NET, ASP.NET
 - HTML, CSS, JavaScript
 - TypeScript, Electron
