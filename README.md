@@ -4,34 +4,30 @@
 ![Microsoft](./img/banner.jpg)
 
 # Greetings!
-### On GitHub I am:
+### What am I up to?
 - Developing curriculum for *Microsoft Leap's Internal Program* 
 - Engaging in projects I may later work on with my students
 - Exploring curriculum ideas for teaching others to code on platforms like Twitch / YouTube
+- Learning and practicing algorithms
 - Learning [Meadows](https://www.wildernesslabs.co/)!  *Meadow is a complete, IoT platform with defense-grade security that runs full .NET Standard applications on embeddable microcontrollers.*
 
 ### I enjoy:
-- Supporting career changers and career returners by building their confidence and learner mindset
-- Thinking through how systems work.
-- Raft guiding, climbing instructing, backcountry skiing, and backpacking
-- Coding. I find joy in writing code :smile:
+- Supporting pre-career, early career and career returners by building their confidence and learner mindset
+- Rafting, climbing, backcountry skiing, and backpacking
+- I love to code. :smile:
 
-### Language and frameworks
+### Languages and frameworks I commonly use:
 - C#, .NET, ASP.NET
+- HTML, CSS, JavaScript
 - TypeScript, Electron
 - Microsoft SQL Server, T-SQL
 - Azure
-
-Prior experience:
-- HTML, CSS, JavaScript, Node.js 
-- Angular & Vue 
-- Non-relational databases 
 
 ### Contact
 - me@jonathanbuchner.com
 - https://www.linkedin.com/in/buchner/
 
-# Professional
+# Professional work experience
 
 ![Microsoft](./img/microsoft.png)
 ### Software Instructor *at Microsoft Leap*
