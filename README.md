@@ -30,9 +30,9 @@
 # Professional work experience
 
 ![Microsoft](./img/microsoft.png)
-### Software Instructor *at Microsoft Leap*
+### Instructor *at Microsoft Leap*
 
-Currently instructing and developing curriculum at Microsoft Leap.  The Microsoft Leap program recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.
+Currently instructing and developing curriculum at Microsoft Leap.  The Microsoft Leap program recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.  I teach Software Enginner, Technical PMs, and Product Manager cohorts.
 
 ---
 
