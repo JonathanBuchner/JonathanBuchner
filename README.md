@@ -29,7 +29,7 @@
 # Professional work experience
 
 ![Microsoft](./img/microsoft.png)
-### Instructor (& TPM) *at Microsoft Leap*
+### Instructor & Technical PM *at Microsoft Leap*
 
 Microsoft Leap instructor for Software Engineering, Technical Program Management, and Product Management pathways. I prepare software engineer and PM apprentices for joining Microsoft teams.  Microsoft Leap recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.
 
