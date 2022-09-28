@@ -15,12 +15,12 @@
 - Rafting, climbing, backcountry skiing, and backpacking
 - I love to code. :smile:
 
-### Go to languages and frameworks:
+### Go toes:
 - C#, .NET, ASP.NET
-- HTML, CSS, JavaScript
 - TypeScript, Electron
 - Microsoft SQL Server, T-SQL
 - Azure
+- React, HTML, CSS, JavaScript
 
 ### Contact
 - me@jonathanbuchner.com
@@ -31,7 +31,7 @@
 ![Microsoft](./img/microsoft.png)
 ### Instructor *at Microsoft Leap*
 
-Currently instructing and developing curriculum at Microsoft Leap.  The Microsoft Leap program recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.  I teach Software Enginner, Technical PMs, and Product Manager cohorts.
+Microsoft Leap instructor for Software Engineering, Technical Program Management, and Product Management pathways. I prepare software engineer and PM apprentices for joining Microsoft teams.  Microsoft Leap recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.
 
 ---
 
