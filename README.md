@@ -8,7 +8,6 @@
 - Developing curriculum for *Microsoft Leap's Internal Program* 
 - Engaging in projects I may later work on with my students
 - Exploring curriculum ideas for teaching others to code on platforms like Twitch / YouTube
-- Learning and practicing algorithms
 - Learning [Meadows](https://www.wildernesslabs.co/)!  *Meadow is a complete, IoT platform with defense-grade security that runs full .NET Standard applications on embeddable microcontrollers.*
 
 ### What do I enjoy?
