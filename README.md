@@ -15,7 +15,7 @@
 - Rafting, climbing, backcountry skiing, and backpacking
 - I love to code. :smile:
 
-### My go to languages and frameworks:
+### Go to languages and frameworks:
 - C#, .NET, ASP.NET
 - HTML, CSS, JavaScript
 - TypeScript, Electron
