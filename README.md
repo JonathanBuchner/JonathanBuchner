@@ -5,10 +5,10 @@
 
 # Greetings!
 ### What am I up to on GitHub?
-- Developing curriculum for *Microsoft Leap's Internal Program* 
+- Developing curriculum *Microsoft Leap* 
 - Exploring curriculum ideas for teaching others to code on platforms like Twitch / YouTube
 - Learning [Meadows](https://www.wildernesslabs.co/)!  *Meadow is a complete, IoT platform with defense-grade security that runs full .NET Standard applications on embeddable microcontrollers.*
-- My coursework for extented learning
+- Pursing a master's in computer science at Harvard's Extension School.
 
 ### What do I enjoy?
 - Supporting pre-career, early career and career returners by building their confidence and learner mindset
