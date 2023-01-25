@@ -14,7 +14,6 @@
 - Rafting, climbing, backcountry skiing, and backpacking
 - I love to code. :smile:
 
-### Go toes:
 - C#, .NET, ASP.NET
 - TypeScript, Electron
 - Microsoft SQL Server, T-SQL
