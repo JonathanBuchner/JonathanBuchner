@@ -14,7 +14,8 @@
 - Rafting, climbing, backcountry skiing, and backpacking
 - I love to code. :smile:
 
-- C#, .NET, ASP.NET
+### Recently
+- .NET 7, ASP.NET
 - TypeScript, Electron
 - Microsoft SQL Server, T-SQL
 - Azure
