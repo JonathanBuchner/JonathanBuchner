@@ -3,29 +3,27 @@
 
 ![Microsoft](./img/banner.jpg)
 
-# Greetings!
+## Greetings!
 ### What am I up to on GitHub?
 - Developing curriculum
 - Learning [Meadows](https://www.wildernesslabs.co/)!  *Meadow is a complete, IoT platform with defense-grade security that runs full .NET Standard applications on embeddable microcontrollers.*
 - Pursing Software Engineering masters at Harvard's Extension School.
 
 ### What do I enjoy?
+- I love to code. :smile:
 - Supporting pre-career, early career and career returners by building their confidence and learner mindset
 - Rafting, climbing, backcountry skiing, and backpacking
-- I love to code. :smile:
 
-### Recently
-- .NET 7, ASP.NET
-- TypeScript, Electron
-- Microsoft SQL Server, T-SQL
-- Azure
-- React, HTML, CSS, JavaScript
+# Technologies
+![Dotnet](./img/dotnet.png)
+![Azure](./img/azure.png)
+![TypeScript](./img/TypeScript.png)
+![Electrong](./img/Electron.png)
+![Microsoft SQL Server](./img/mssqlserver.png)
+![IoT](./img/iot.png)
+![htmlcssjavascript](./img/htmlcssjavascript.png)
 
-### Contact
-- me@jonathanbuchner.com
-- https://www.linkedin.com/in/buchner/
-
-# Professional work experience
+# Professional experience
 
 ![Microsoft](./img/microsoft.png)
 ### Instructor & Technical PM *at Microsoft Leap*
@@ -53,4 +51,6 @@ Removed resource-intensive media processing out of Azure to clients, and simplif
 
 I taught two fifteen week evening programming courses.  Epicodus is the most affordable full-time code school, and one of the few programs that includes an internship with a tech company as well as job search support.
 
-
+# Contact
+- me@jonathanbuchner.com
+- https://www.linkedin.com/in/buchner/
