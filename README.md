@@ -5,9 +5,9 @@
 
 ## Greetings!
 ### What am I up to on GitHub?
-- Developing curriculum
-- Learning [Meadows](https://www.wildernesslabs.co/)!  *Meadow is a complete, IoT platform with defense-grade security that runs full .NET Standard applications on embeddable microcontrollers.*
-- Pursing Software Engineering masters at Harvard's Extension School.
+- Developing curriculum.
+- Learning [Meadows](https://www.wildernesslabs.co/) and IoT stuff!  *Meadow is a complete, IoT platform with defense-grade security that runs full .NET Standard applications on embeddable microcontrollers.*
+- Pursing a Software Engineering masters at Harvard's Extension School.
 
 ### What do I enjoy?
 - I love to code. :smile:
