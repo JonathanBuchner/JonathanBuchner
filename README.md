@@ -15,6 +15,9 @@
 - Rafting, climbing, backcountry skiing, and backpacking
 
 # Technologies
+Technologies I enjoy.
+
+
 ![Dotnet](./img/dotnet.png)
 ![Azure](./img/azure.png)
 ![TypeScript](./img/TypeScript.png)
@@ -29,6 +32,12 @@
 ### Instructor & Technical PM *at Microsoft Leap*
 
 Microsoft Leap instructor for Software Engineering, Technical Program Management, and Product Management pathways. I prepare software engineer and PM apprentices for joining Microsoft teams.  Microsoft Leap recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.
+
+#### *Project:* SWE and TPM Internal Pathways
+Lead the design, development, and instructed the first Microsoft Leap internal program which is a six month pathway for reskilling data center technicians to Software Engineer and Technical PM positions at Microsoft.
+
+#### *Project*: TPM & PM Curriculum
+Lead the development of the Leap Technical PM and Product manager curriculum for our classic four week classroom.
 
 ---
 
