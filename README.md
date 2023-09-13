@@ -5,12 +5,12 @@
 
 ## Greetings!
 ### What am I up to on GitHub?
+- Pursing a Software Engineering masters at Harvard's Extension School.
 - Developing curriculum.
 - Learning [Meadows](https://www.wildernesslabs.co/) and IoT stuff!  *Meadow is a complete, IoT platform with defense-grade security that runs full .NET Standard applications on embeddable microcontrollers.*
-- Pursing a Software Engineering masters at Harvard's Extension School.
 
 ### What do I enjoy?
-- I love to code. :smile:
+- I love to learn and code. :smile:
 - Supporting pre-career, early career and career returners by building their confidence and learner mindset
 - Rafting, climbing, backcountry skiing, and backpacking
 
@@ -28,19 +28,6 @@ Technologies I enjoy.
 
 # Professional experience
 
-![Microsoft](./img/microsoft.png)
-### Instructor & Technical PM *at Microsoft Leap*
-
-Microsoft Leap instructor for Software Engineering, Technical Program Management, and Product Management pathways. I prepare software engineer and PM apprentices for joining Microsoft teams.  Microsoft Leap recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.
-
-#### *Project:* SWE and TPM Internal Pathways
-Lead the design, development, and instructed the first Microsoft Leap internal program which is a six month pathway for reskilling data center technicians to Software Engineer and Technical PM positions at Microsoft.
-
-#### *Project*: TPM & PM Curriculum
-Lead the development of the Leap Technical PM and Product manager curriculum for our classic four week classroom.
-
----
-
 ![Envision](./img/envision.png)
 ### Developer *at Envision*
 
@@ -52,6 +39,19 @@ Cross-platform desktop application that capture user’s computer screen, progra
 
 #### *Project:* Media Player
 Removed resource-intensive media processing out of Azure to clients, and simplified media delivery to client applications. 
+
+---
+
+![Microsoft](./img/microsoft.png)
+### Instructor & Technical PM *at Microsoft Leap*
+
+Microsoft Leap instructor for Software Engineering, Technical Program Management, and Product Management pathways. I prepare software engineer and PM apprentices for joining Microsoft teams.  Microsoft Leap recruits, develops, and upskills unconventional talent for employability into the technology industry worldwide.
+
+#### *Project:* SWE and TPM Internal Pathways
+Lead the design, development, and instructed the first Microsoft Leap internal program which is a six month pathway for reskilling data center technicians to Software Engineer and Technical PM positions at Microsoft.
+
+#### *Project*: TPM & PM Curriculum
+Lead the development of the Leap Technical PM and Product manager curriculum for our classic four week classroom.
 
 ---
 
